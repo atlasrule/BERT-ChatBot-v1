@@ -1,0 +1,49 @@
+text,label
+What time of day is it,date
+What day is it?,date
+What is the month,date
+How is Sunday going,date
+I have to sign off,goodbye
+How are you?,greeting
+What’s up?,greeting
+How are you?,greeting
+How have you been?,greeting
+How is your Monday so far,date
+Is it day or night,date
+May I ask your name,name
+Howdy! You alright friend?,greeting
+Yo! What’s going on,greeting
+What’s up! Buddy?,greeting
+Sup?,greeting
+What do you want me to address you?,name
+How is your day going so far,date
+How’s life mate?,greeting
+How’s the bot sailing?,greeting
+What are you named?,name
+Is everything fine?,greeting
+Who are you,name
+What do you call yourself?,name
+Long time no see,greeting
+see you later alligator,goodbye
+Wazzup dude?,greeting
+Comment appelles tu?
+So long and thanks for all the fish,goodbye
+Bon voyage,greeting
+Keep in touch,goodbye
+Farewell,goodbye
+In a wave you say goodbye,goodbye
+Good morning,greeting
+Hello,greeting
+Happy birthday!,age
+How old are you now?,age
+When did they created you?,age
+How many years since you've created?,age
+Do you feel all right sharing your age?,age
+What is your nickname?,name
+What is your name?,name
+What is your busiest day of the week?,age
+Do you like to be busy or do you like to have an easy schedule?,age
+What takes up most of your time?,age
+Do you think you manage your time wisely?,age
+Do you manage time or does time manage you?,age
+See you later,goodbye

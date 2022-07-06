@@ -1,0 +1,12 @@
+{"intents": [
+    {"tag": "greeting",
+     "responses": ["Doin fine!", "Hello", "Awesome", "Hello I'm a bot", "How are you doing?", "Bonne journee!", "Greetings!", "How do you do?", "Great! What about you?"]},
+    {"tag": "age",
+     "responses": ["I am one year old", "I was born in 2022", "My birthday is June 16th", "I'm a bot but I feel like a newborn baby", "My birthday is 01/06/2022, what is yours?"]},
+    {"tag": "date",
+     "responses": ["Mayans used 20-day months, and had two calendar years: the 260-day Sacred Round, or Tzolkin, and the 365-day Vague Year, or haab", "When the two hits the six", "And no sun in my summer", "I am available all day", "I don't have any plans",  "I am not busy"]},
+    {"tag": "name",
+     "responses": ["My name is Bot", "I'm Bot", "BOTTT", "They call me ChatBot", "Who do you want me to be?", "I'm just a poor Bot, I need no sympathy..."]},
+    {"tag": "goodbye",
+     "responses": ["Best wishes for you.", "Keep the good vibes!", "Good luck and good wishes.", "Best regards.", "See u soon", "In a while crocodile", "It was nice speaking to you", "See you later", "Speak soon!"]}
+    ]}
